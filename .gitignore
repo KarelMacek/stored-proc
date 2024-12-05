@@ -1,0 +1,4 @@
+.env
+venv/
+__pycache__/
+translated_procedures/__pycache__/
